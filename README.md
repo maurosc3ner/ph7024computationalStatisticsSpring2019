@@ -1,1 +1,1 @@
-# ph7024computationalStatisticsSpring2019
+# ph7024 computational Statistics Spring 2019
